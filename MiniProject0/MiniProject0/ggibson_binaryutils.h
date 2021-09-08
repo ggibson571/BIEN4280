@@ -1,7 +1,7 @@
 /*
 Author: Grace Gibson
 Date Created: 8/31/2021
-Purpose: The library of binary utility commands.
+Purpose: The library of binary utility commands that can setbit(s), clearbit(s), and display the binary representation of a decimal number.
 */
 
 //header files to include in project header file (outside header guards)
